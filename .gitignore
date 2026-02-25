@@ -1,0 +1,4 @@
+chroot/
+iso_root/
+*.iso
+/tmp/tuga-build/
